@@ -1,0 +1,14 @@
+article {
+	columns: 100px 3;
+	position: relative;
+	background-color: grey;
+	text-align: justify;
+}
+#Post3 {
+	font-family: arial;
+	font-style: italic;
+	color: yellow;
+}
+#Post2 {
+	color: white;
+}

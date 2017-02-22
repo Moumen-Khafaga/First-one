@@ -1,0 +1,14 @@
+img.pic1 {
+	border-radius: 50%;
+	display: block;
+	margin: auto;
+	
+	/*opacity: 0.5;
+    filter: alpha(opacity=50);
+*/
+}
+.left .written {
+font-family: Arial;
+font-size: 250%;
+background-color: grey;
+}

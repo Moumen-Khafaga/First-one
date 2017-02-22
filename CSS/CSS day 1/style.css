@@ -1,0 +1,16 @@
+div{
+	border: 1px solid;
+	margin: 5px;
+}
+#third p{
+display: none;
+}
+h1 {
+	display: none;
+}
+#second * {
+	visibility: hidden;
+}
+#second #sixth img{
+	visibility: visible;
+}
